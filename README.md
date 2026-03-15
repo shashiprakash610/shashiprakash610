@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Shashi Prakash!
 
-🎯 **AI Research Engineer | Data Engineer | LLM & RAG Systems**  
-📍 Based in Paderborn, Germany | MS in Software Engineering | Passionate about AI-driven Innovation
+🎯 **AI Research Engineer at ZELTASK | Data Engineer | LLM & RAG Systems**  
+📍 Based in Paderborn, Germany | MS in Software Engineering @ Uni Paderborn
 
 ---
 
 ### 🚀 About Me
 
-I am an **AI Research Engineer** specializing in **LLMs, Retrieval-Augmented Generation (RAG), and Scalable Data Pipelines**. My experience spans building intelligent enterprise-grade systems that bridge the gap between complex research and production-ready applications.
+I am an **AI Research Engineer at ZELTASK** specializing in **LLMs, Retrieval-Augmented Generation (RAG), and Scalable Data Pipelines**. My experience spans building intelligent enterprise-grade systems that bridge the gap between complex research and production-ready applications.
 
 🔹 **Key Expertise:**
 * **Large Language Models (LLM) & NLP** (LangChain, Prompt Engineering, Agentic Workflows)
